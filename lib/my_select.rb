@@ -1,9 +1,9 @@
 def my_select(collection)
- new_collect=[]
+ new_arr=[]
  i=0
  while i <collection.length
-   new_collect.push yield(collection[i])
+   my_arr.push yield(collection[i])
    i+=1
  end
- new_collect
+ new_arr
 end
