@@ -7,4 +7,3 @@ def my_select(collection)
  end
  new_arr
 end
-
