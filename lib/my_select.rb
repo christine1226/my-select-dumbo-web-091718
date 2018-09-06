@@ -12,4 +12,4 @@ my_select(num) do |num|
   if num.even?
     num
   end
-end
+
