@@ -7,3 +7,5 @@ def my_select(array)
  end
  new_arr
 end
+
+array(2,4)
