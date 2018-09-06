@@ -8,4 +8,4 @@ def my_select(array)
  new_arr
 end
 
-array(2,4)
+
