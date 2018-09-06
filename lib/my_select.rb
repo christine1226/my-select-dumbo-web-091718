@@ -8,8 +8,6 @@ def my_select(collection)
  new_arr
 end
 
-my_select(num) do |num|
-  if num.even?
-    num
+my_select(nums) do |num|
+  num.even?
   end
-
