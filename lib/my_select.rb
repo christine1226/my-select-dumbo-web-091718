@@ -5,5 +5,5 @@ def my_select(collection)
    my_arr.push yield(collection[i])
    i+=1
  end
- new_arr
+ new_arr[i]
 end
