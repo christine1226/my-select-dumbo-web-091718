@@ -5,4 +5,3 @@ def my_select(nums)
     x.even?
   end
 end
-
